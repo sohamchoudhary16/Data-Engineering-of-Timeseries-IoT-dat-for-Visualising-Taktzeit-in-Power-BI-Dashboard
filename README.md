@@ -37,9 +37,9 @@ The final processed data is stored in Spark DataFrames ready for further analysi
 * Data-Engineering-of-Timeseries-IoT-data-for-Visualising-Taktzeit-in-Power-BI-Dashboard/
 * README.md: This document providing an overview of the project and instructions for usage.
 * src/
-** data_engineering.py: Python script containing the Spark data processing and transformation functions.
+  * data_engineering.py: Python script containing the Spark data processing and transformation functions.
 * data/
-** contour-export-22-02-2022.csv: Sample input data file.
+  * contour-export-22-02-2022.csv: Sample input data file.
 * requirements.txt: File listing all Python dependencies required to run the project.
 ## Usage:
 
